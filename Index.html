@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Form</title>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+    <div class="content">
+        <div class="image-section">
+            <div class="logo">
+                <img src="./odin-lined.png" alt="Odin" />
+                Sign Up Meow
+            </div>
+            <p class="attribution">
+                Photo by <a href="https://unsplash.com/photos/7GX5aICb5i4">Jae Park</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+            </p>
+        </div>
+        <div class="form-section">
+            <p>This is not a real online service! You know you need something like this in your life to help you realize your deepest dreams. Sign up <em>meow</em> to get started.</p>
+            <p>You <em>know</em> you want to.</p>
+            <form>
+                <div class="inputs-section">
+                    <h2>Let's do this!</h2>
+                    <div class="inputs">
+                        <div>
+                            <div>
+                                <Label for="first-name">First Name</Label>
+                                <input type="text" class="focus" id="first-name" name="first-name" />
+                            </div>
+                            <div>
+                                <Label for="last-name">Last Name</Label>
+                                <input type="text" id="last-name" name="last-name" />
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <Label for="email">Email</Label>
+                                <input type="email" id="email" name="email" />
+                            </div>
+                            <div>
+                                <label for="phone-number">Phone Number</label>
+                                <input type="tel" id="phone-number" name="phone-number" />
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <Label for="password">Password</Label>
+                                <input type="password" class="error" id="password" name="password" />
+                                <p class="error-message">*Passwords do not match</p>
+                            </div>
+                            <div>
+                                <Label for="confirm-password">Confirm Password</Label>
+                                <input type="password" class="error" id="confirm-password" name="confirm-password" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button type="submit" id="create-account">Create Account</button>
+            </form>
+            <p class="log-in">Already have an account? <a href="">Log In</a></p>
+        </div>
+    </div>
+</body>
+</html>
