@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: "Norse Bold";
-    src: url(/RexHolliday/Sign-up-Form/Norse-Bold.otf);
+    src: url(/Norse-Bold.otf);
 }
 
 .content {
@@ -16,7 +16,7 @@ body {
 
 .image-section {
     background-position: center center;
-    background-image: url("/RexHolliday/Sign-up-Form/jae-park-7GX5aICb5i4-unsplash.jpg");
+    background-image: url("/jae-park-7GX5aICb5i4-unsplash.jpg");
     background-size: cover;
     color: white;
     width: 40vw;
