@@ -10,7 +10,7 @@ Web development - The Odin Project
 - [Fourth Project](https://github.com/RexHolliday/Etch-A-Sketch) - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]
 - [Fifth Project](https://github.com/RexHolliday/calculator) - Calculator [HTML | CSS | JavaScript]
 - [Sixth Project](https://github.com/RexHolliday/Sign-up-Form) - Sign-up Form [HTML | CSS | JavaScript]
-- Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
+- [Seventh Project](https://github.com/RexHolliday/admin-dashboard) - Admin Dashboard [HTML | CSS | JavaScript]
 - Eighth Project - Library [HTML | CSS | JavaScript + Objects]
 - Ninth Project - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
 - Tenth Project - Restaurant Page [HTML | CSS | JavaScript + ES6 Modules + Webpack]
